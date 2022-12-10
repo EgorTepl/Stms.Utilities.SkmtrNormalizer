@@ -1,0 +1,2 @@
+E:\MyProjects\Stms.Utilities.SkmtrNormalizer\Stms.SkmtrNormalizer\Stms.SkmtrNormalizer\bin\Release\net6.0\win-x64\publish\win-x64\Stms.SkmtrNormalizer.pdb
+E:\MyProjects\Stms.Utilities.SkmtrNormalizer\Stms.SkmtrNormalizer\Stms.SkmtrNormalizer\bin\Release\net6.0\win-x64\publish\win-x64\Stms.SkmtrNormalizer.exe
